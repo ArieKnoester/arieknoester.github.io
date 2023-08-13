@@ -1,0 +1,21 @@
+---
+title: "Arie Knoester"
+image: "https://www.dictionary.com/e/wp-content/uploads/2018/07/dick-butt-300x300.jpg"
+about:
+  template: "trestles"
+  links:
+    - icon: "github"
+      text: "Personal Github"
+      href: "https://github.com/ArieKnoester"
+    - icon: "envelope"
+      text: "E-mail"
+      href: "mailto:arikstr@gmail.com"
+---
+
+```{python}
+#| echo: true
+print(1+1)
+```
+
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
