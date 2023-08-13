@@ -1,0 +1,8 @@
+
+name: "HomePage"
+channels: 
+- "conda-forge"
+- "nodefaults"
+dependencies: 
+- "quarto"
+- "jupyter"
