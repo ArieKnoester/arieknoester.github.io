@@ -1,6 +1,6 @@
 ---
 title: "Arie Knoester"
-image: "https://www.dictionary.com/e/wp-content/uploads/2018/07/dick-butt-300x300.jpg"
+image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.1w9b4VQjxrI3ZPHI-3BEnAHaGU%26pid%3DApi&f=1&ipt=7db95433e99bc834bbeee7b3caf46278dded84ef2af0b6176e4d7a40949404c4&ipo=images"
 about:
   template: "trestles"
   links:
