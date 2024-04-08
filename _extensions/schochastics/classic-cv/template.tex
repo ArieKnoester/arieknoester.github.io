@@ -59,13 +59,16 @@
 %	PAGE LAYOUT  DEFINITIONS
 %----------------------------------------------------------------------------------------
 \usepackage[a4paper]{geometry}		
-\geometry{top=1.25cm, bottom=-.1cm, left=1.5cm, right=1.5cm} 	
+\geometry{top=1.25cm, bottom=-.1cm, left=1.5cm, right=1.5cm} 
+%\geometry{top=1.75cm, bottom=-.3cm, left=1.5cm, right=1.5cm} 	
 
 \usepackage{fancyhdr}				
 \pagestyle{fancy}
-\usepackage[colorlinks]{hyperref}
+\usepackage[colorlinks, allcolors=sectcol]{hyperref}
 %less space between header and content
 \setlength{\headheight}{-5pt}		
+
+
 
 \setlength{\parindent}{0mm}
 
@@ -103,7 +106,8 @@
 \definecolor{sectcol}{HTML}{$cvcolor$}
 
 %dark background color
-\definecolor{bgcol}{RGB}{110,110,110}
+%\definecolor{bgcol}{RGB}{110,110,110}
+\definecolor{bgcol}{HTML}{$bgcolor$}
 
 %light background / accent color
 \definecolor{softcol}{RGB}{225,225,225}
@@ -141,11 +145,19 @@
 % create a coloured box with arrow and title as cv section headline
 % param 1: section title
 %
+% \newcommand{\cvsection}[1]
+% {
+% 	\begin{center}
+% 		\large\textcolor{sectcol}{\textbf{#1}}
+% 	\end{center}
+% }
+
+{
 \newcommand{\cvsection}[1]
 {
-	\begin{center}
-		\large\textcolor{sectcol}{\textbf{#1}}
-	\end{center}
+\colorbox{sectcol}{\mystrut \makebox[1\linewidth][l]{
+	\textcolor{white}{\textbf{#1}}\hspace{4pt}
+}}\\
 }
 
 %
@@ -202,9 +214,13 @@
 %	TITLE HEADLINE
 %----------------------------------------------------------------------------------------
 \vspace{-8pt}
+%\vspace{-20.55pt}
+
 \begin{center}
-	\HUGE \textsc{$author$} \textcolor{sectcol}{\rule[-1mm]{1mm}{0.9cm}} \textsc{Resume}\\[2pt]
-	\small $title$
+	\HUGE \textsc{$author$}\\[2pt]
+	\vspace{5pt}
+	\small{$tagline.field1$ | $tagline.field2$ | $tagline.field3$ | $tagline.field4$}
+	%\small $title$
 \end{center}
 
 \vspace{6pt}
@@ -212,17 +228,7 @@
 %---------------------------------------------------------------------------------------
 %	META SECTION
 %----------------------------------------------------------------------------------------
-$for(cvmeta)$
-\metasection{$cvmeta.right$}{\textbf{$cvmeta.title$}: $cvmeta.left$}
-$endfor$
 
-\vspace{-2pt}
-\textcolor{softcol}{\hrule}
-\vspace{6pt}
-
-\normalsize
-
-\vspace{-6pt}
 $body$
 
 %--------------------------------------------------------------------------------------------------

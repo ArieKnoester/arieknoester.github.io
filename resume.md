@@ -1,13 +1,19 @@
 ---
-author: "This is a test"
-title: "Scientific / Geospatial Software Developer"
+author: Arie Knoester
+title: Software Developer
+tagline:
+  field1: Software Developer
+  field2: \href{mailto:arie.knoester42@gmail.com}{arie.knoester42@gmail.com}
+  field3: Chicago, IL, USA
+  field4: \href{https://github.com/ArieKnoester}{github.com/ArieKnoester}
 format:
   classic-cv-pdf: "default"
 cvfooter:
-  left: "mfisher87.github.io"
-  right: "github.com/mfisher87"
+  left: \href{https://arieknoester.github.io/}{arieknoester.github.io}
+  right: \href{https://github.com/ArieKnoester}{github.com/ArieKnoester}
 # A color hex code without `#`
-cvcolor: "1b4a0a"
+cvcolor: 666699
+bgcolor: 666699
 # A texlive font like raleway,fetamont,gillius,comfortaa
 cvfont: "lato"
 cvmeta:
@@ -22,12 +28,17 @@ cvmeta:
     right: "Boulder, CO"
 ---
 
+# Objective
+
 A scientific software developer passionate about open source, community
 ownership, and accessibility. Open-source software maintainer, co-author of
 \textit{QGreenland}, and co-author and administrator of \textit{QGreenland 2023
 Researcher Workshop}, a 3-day hands-on open-source workshop which broke ground
 by running the QGIS graphical analysis environment at classroom scale in the
-cloud.
+cloud.\newline
+
+# Skills
+I can do stuff!\newline
 
 
 # Experience
