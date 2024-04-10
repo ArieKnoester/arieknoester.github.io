@@ -59,15 +59,14 @@
 %	PAGE LAYOUT  DEFINITIONS
 %----------------------------------------------------------------------------------------
 \usepackage[a4paper]{geometry}		
-\geometry{top=1.25cm, bottom=-.1cm, left=1.5cm, right=1.5cm} 
-%\geometry{top=1.75cm, bottom=-.3cm, left=1.5cm, right=1.5cm} 	
+%\geometry{top=1.25cm, bottom=-.1cm, left=1.5cm, right=1.5cm} 
+\geometry{top=1.75cm, bottom=-.3cm, left=1.5cm, right=1.5cm} 	
 
 \usepackage{fancyhdr}				
 \pagestyle{fancy}
 \usepackage[colorlinks, allcolors=sectcol]{hyperref}
 %less space between header and content
 \setlength{\headheight}{-5pt}		
-
 
 
 \setlength{\parindent}{0mm}
@@ -201,6 +200,10 @@
 	#2
 }
 
+% Test
+\newcommand{\ul}[1]{\begin{itemize}#1\end{itemize}}
+\newcommand{\li}[1]{\item{#1}}
+
 %----------------------------------------------------------------------------------------
 % CUSTOM STRUT FOR EMPTY BOXES
 %----------------------------------------- -----------------------------------------------
@@ -229,6 +232,12 @@
 %	META SECTION
 %----------------------------------------------------------------------------------------
 
+% \vspace{15pt}
+% $for(cvmeta)$
+% \metasection{$cvmeta.title$:}{$cvmeta.text$}
+% $endfor$
+
+% \vspace{15pt}
 $body$
 
 %--------------------------------------------------------------------------------------------------
