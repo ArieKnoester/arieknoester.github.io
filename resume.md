@@ -65,6 +65,5 @@ Python, git, Linux, Pycharm, VS Code, vim. Moderate experience with PHP, Javascr
   {Cycling},
   {PC gaming},
   {Fantasy and sci-fi series and movies.},
-  {Stand up comedy specials},
-  {Reasoned debates with the voices in my head.}
+  {Stand up comedy specials}
 }
