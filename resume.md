@@ -1,80 +1,70 @@
 ---
-author: "This is a test"
-title: "Scientific / Geospatial Software Developer"
+author: Arie Knoester
+title: Software Developer
+tagline:
+  field1: Software Developer
+  field2: \href{mailto:arie.knoester42@gmail.com}{arie.knoester42@gmail.com}
+  field3: Chicago, IL, USA
+  field4: \href{https://github.com/ArieKnoester}{github.com/ArieKnoester}
 format:
   classic-cv-pdf: "default"
 cvfooter:
-  left: "mfisher87.github.io"
-  right: "github.com/mfisher87"
+  left: \href{https://arieknoester.github.io/}{arieknoester.github.io}
+  right: \href{https://github.com/ArieKnoester}{github.com/ArieKnoester/}
 # A color hex code without `#`
-cvcolor: "1b4a0a"
+cvcolor: 666699
+bgcolor: 666699
 # A texlive font like raleway,fetamont,gillius,comfortaa
 cvfont: "lato"
-cvmeta:
-  - title: "Field"
-    left: "Open Geospatial Software & Data Engineering"
-    right: "orcid.org/0000-0003-3260-5445"
-  - title: "Skills"
-    left: "Software architecture, Python, TypeScript, geospatial data, open science, FAIR & CARE, Linux, CI/CD"
-    right: "mfisher87@gmail.com"
-  - title: "Status"
-    left: "Associate Scientist III at National Snow and Ice Data Center"
-    right: "Boulder, CO"
 ---
 
-A scientific software developer passionate about open source, community
-ownership, and accessibility. Open-source software maintainer, co-author of
-\textit{QGreenland}, and co-author and administrator of \textit{QGreenland 2023
-Researcher Workshop}, a 3-day hands-on open-source workshop which broke ground
-by running the QGIS graphical analysis environment at classroom scale in the
-cloud.
+# Objective
+
+After 7 years working with Customer Relations Management applications (CRMs), I am eagar to transition into another field. I've put considerable effort into 
+learning Python and it quickly became my favorite languange. I am seeking opportunities in scientific applications, data science, or Python web development. \newline
+
+# Skills
+
+Python, git, Linux, Pycharm, VS Code, vim. Moderate experience with PHP, Javascript, and MySQL. Light experience with PostgreSQL and .NET scripting. \newline
 
 
 # Experience
 
-\cvevent{Apr. 2016 - Present}{Scientific Sofware Developer}{National Snow and Ice Data Center}{
-  {Co-authored \textit{QGreenland}, a free interdisciplinary Greenland-focused GIS analysis and visualization environment},
-  {Co-authored \textit{QGreenland 2023 Researcher Workshop} and related guest post on Jupyter Blog},
-  {Trained scientists to use Git \& GitHub},
-  {Created data processing pipelines for scientific data products (e.g. \textit{Sea Ice Index}, \textit{Images of Antarctic Ice Shelves})},
-  {Architected and developed a graphical data ordering system supporting most NSIDC data products},
-  {Built public tiling map services for various NSIDC data products},
-  {Modernized legacy \textit{Sea Ice Index} software and services},
-  {Developed geospatial data visualization tools including \textit{ChArctic}, \textit{Arctic Rain on Snow Study Interactive Map}, \textit{Snow Today}, and \textit{Greenland Today}},
-  {2022 CIRES Outstanding Performance Award recipient}
+\cvevent{2019 - July 2023}{Developer}{Technology Advisors}{
+  {Coded custom features requested by clients using best practices defined by CRM vendors.},
+  {Debugging code when custom features no longer function as expected after CRM upgrades.},
+  {Wrote MySQL scripts for "advanced" reports requested by clients which cannot be built through the CRM's UI.},
+  {Maintained CRM developer certifications when required (SugarCRM, Creatio CRM).},
+  {Implemented data migrations and maintined data integrations via in-house built ETL application (\href{https://www.starfishetl.com/}{Starfish ETL}).},
+  {Responsible for all on-premise installations of client CRMs including consulting, estimates, application upgrades, stack upgrades, and support.},
+  {Contributed to company blogs.},
+  {Contributed to internal wiki.}
 }
 
-\cvevent{Jun. 2008 - Apr. 2016}{Senior Software Engineer}{Discover Financial Services}{
-  {Distributed transaction rewards processing system with dozens of vendor integrations serving >50 million customers},
-  {Business tools for configuring unique rewards promotions and analyzing performance},
-  {Analyzed transaction and rewards data to answer business questions},
-  {Built distributed Extract, Transform, \& Load systems (Ab Initio)},
-  {Extended a proprietary version control system to add branch support},
-  {Implemented internal documentation system (wiki), designed relational database (Oracle, IBM DB2) data models}
-}
-
-\cvevent{}{Open Source Software Maintainer}{GitHub}{
-  {\textit{viscm} - A tool for developing mathematically-derived perceptually uniform scientific colormaps},
-  {\textit{viscm} conda-forge feedstock},
-  {\textit{Quarto} conda-forge feedstock}
+\cvevent{July 2017 - 2019}{Support}{Technology Advisors}{
+  {Responsible for initial reponse for all incoming support cases.},
+  {Responsible for driving support cases to completion with follow up questions, updates, and checking in with internal resources.},
+  {Built custom sections and pages within the CRMs' UI.},
+  {Delegating support cases to developers when required.},
+  {Worked with CRM vendor support when needed.},
+  {Executed CRM administration tasks for clients.},
+  {Executed on-premise upgrades of SugarCRM.},
+  {Promoted to Developer in 2019.}
 }
 
 # Education
 
-\cvevent{2005-2009}{Bachelor of Science in Computer Information Systems}{Peoria, Illinois, USA}{}
+\cvevent{May 2013 - 2015}{B.S. Computer Science}{Northeastern Illinois University}{}
+\cvevent{Aug. 2010 - Dec. 2012}{Computer Science Major}{University of Illinois Chicago}{}
 
 
 # About me
 
-\cvevent{}{Career interests}{Software communities, open science, collaboration}{
-  {Community-driven software development and sustainment},
-  {Open science and skills training for researchers},
-  {Collaborative computing}
-}
-
-\cvevent{}{Personal interests}{Tech, music, gardening, dogs}{
-  {Building electric and acoustic musical instruments},
-  {Playing and recording music (drums, keyboards)},
-  {Home automation and self-hosted services},
-  {Plants and animals, especially dogs}
+\cvevent{}{Interests}{Endeavoring to keep life simple in an increasingly complicated world.}{
+  {Walking},
+  {Cycling},
+  {PC gaming},
+  {Fantasy and sci-fi series and movies.},
+  {Stand up comedy specials},
+  {Reasoned debates with the voices in my head.}
 }
