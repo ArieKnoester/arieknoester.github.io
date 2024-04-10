@@ -20,9 +20,8 @@ cvfont: "lato"
 
 # Objective
 
-After 7 years working with Customer Relations Management applications (CRMs), I am eagarly looking to transition to another field.
-I've put considerable effort into learning Python and it quickly became my favorite languange. I am seeking opportunities in Science, Data Science, or Python
-web development. \newline
+After 7 years working with Customer Relations Management applications (CRMs), I am eagar to transition into another field. I've put considerable effort into 
+learning Python and it quickly became my favorite languange. I am seeking opportunities in scientific applications, data science, or Python web development. \newline
 
 # Skills
 
@@ -61,10 +60,10 @@ Python, git, Linux, Pycharm, VS Code, vim. Moderate experience with PHP, Javascr
 
 # About me
 
-\cvevent{}{Interests}{}{
-  {Walking and cycling},
+\cvevent{}{Interests}{Endeavoring to keep life simple in an increasingly complicated world.}{
+  {Walking},
+  {Cycling},
   {PC gaming},
-  {Building, upgrading, and maintining my gaming and workspace.},
   {Fantasy and sci-fi series and movies.},
   {Stand up comedy specials},
   {Reasoned debates with the voices in my head.}
