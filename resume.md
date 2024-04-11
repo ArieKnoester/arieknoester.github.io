@@ -20,12 +20,14 @@ cvfont: "lato"
 
 # Objective
 
-After 7 years working with Customer Relations Management applications (CRMs), I am eagar to transition into another field. I've put considerable effort into 
-learning Python and it quickly became my favorite languange. I am seeking opportunities in scientific applications, data science, or Python web development. \newline
+After 7 years of software development focused on internal business logistics, I am eager to explore other realms.
+Over the last {time}, I invested in learning Python in support of this objective, and I am now seeking
+opportunities in research software engineering, data science, and Python web development. \newline
+
 
 # Skills
 
-Python, git, Linux, Pycharm, VS Code, vim. Moderate experience with PHP, Javascript, and MySQL. Light experience with PostgreSQL and .NET scripting. \newline
+Python, Git, Linux, PHP, Javascript, relational databases (MySQL, PostgreSQL), and .NET scripting. \newline
 
 
 # Experience
