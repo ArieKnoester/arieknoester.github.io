@@ -51,6 +51,13 @@ Python, Git, Linux, PHP, Javascript, relational databases (MySQL, PostgreSQL), a
   {Executed on-premise upgrades of SugarCRM.}
 }
 
+\cvevent{}{Open Source Software Engineer}{Volunteer}{
+  {%
+    Contributor to \href{https://github.com/conda/conda-lock}{\textit{conda-lock}}
+    - A tool that enables reproducibile software environments in the Conda ecosystem
+  }
+}
+
 # Education
 
 \cvevent{May 2013 - 2015}{B.S. Computer Science}{Northeastern Illinois University}{}
