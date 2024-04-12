@@ -2,7 +2,7 @@
 author: Arie Knoester
 title: Software Developer
 tagline:
-  field1: Software Developer
+  field1: Software Engineer
   field2: \href{mailto:arie.knoester42@gmail.com}{arie.knoester42@gmail.com}
   field3: Chicago, IL, USA
   field4: \href{https://github.com/ArieKnoester}{github.com/ArieKnoester}
@@ -21,7 +21,7 @@ cvfont: "lato"
 # Objective
 
 After 7 years of software development focused on internal business logistics, I am eager to explore other realms.
-Over the last {time}, I invested in learning Python in support of this objective, and I am now seeking
+Over the last 8 months, I invested in learning Python in support of this objective, and I am now seeking
 opportunities in research software engineering, data science, and Python web development. \newline
 
 
@@ -45,9 +45,8 @@ Python, Git, Linux, PHP, Javascript, relational databases (MySQL, PostgreSQL), a
 \cvevent{July 2017 - 2019}{Support Engineer}{Technology Advisors}{
   {Led triage and initial response to incoming support cases.},
   {Drove support cases to completion with follow up questions, updates, and internal delegation.},
-  {Customized CRM user interfaces.},
   {Collaborated with vendors to work around or resolve upstream issues.},
-  {Performed database administration tasks for clients.},
+  {Performed CRM administration tasks for clients.},
   {Executed on-premise upgrades of SugarCRM.}
 }
 
