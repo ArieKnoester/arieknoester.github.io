@@ -20,36 +20,42 @@ cvfont: "lato"
 
 # Objective
 
-After 7 years working with Customer Relations Management applications (CRMs), I am eagar to transition into another field. I've put considerable effort into 
-learning Python and it quickly became my favorite languange. I am seeking opportunities in scientific applications, data science, or Python web development. \newline
+After 7 years of software development focused on internal business logistics, I am eager to explore other realms.
+Over the last {time}, I invested in learning Python in support of this objective, and I am now seeking
+opportunities in research software engineering, data science, and Python web development. \newline
+
 
 # Skills
 
-Python, git, Linux, Pycharm, VS Code, vim. Moderate experience with PHP, Javascript, and MySQL. Light experience with PostgreSQL and .NET scripting. \newline
+Python, Git, Linux, PHP, Javascript, relational databases (MySQL, PostgreSQL), and .NET scripting. \newline
 
 
 # Experience
 
-\cvevent{2019 - July 2023}{Developer}{Technology Advisors}{
-  {Coded custom features requested by clients using best practices defined by CRM vendors.},
-  {Debugging code when custom features no longer function as expected after CRM upgrades.},
-  {Wrote MySQL scripts for "advanced" reports requested by clients which cannot be built through the CRM's UI.},
-  {Maintained CRM developer certifications when required (SugarCRM, Creatio CRM).},
+\cvevent{2019 - July 2023}{Software Engineer}{Technology Advisors}{
+  {Coded custom features requested by clients using best practices defined by upstream vendors.},
+  {Debugged breakages in custom features caused by dependency upgrades.},
+  {Wrote MySQL scripts for custom reports requested by clients.},
+  {Maintained CRM developer certifications (SugarCRM, Creatio CRM).},
   {Implemented data migrations and maintined data integrations via in-house built ETL application (\href{https://www.starfishetl.com/}{Starfish ETL}).},
-  {Responsible for all on-premise installations of client CRMs including consulting, estimates, application upgrades, stack upgrades, and support.},
-  {Contributed to company blogs.},
-  {Contributed to internal wiki.}
+  {Provided consulting, estimates, application upgrades, stack upgrades, and support for clients' on-premise deployments.},
+  {Authored content for company blogs and internal wiki.}
 }
 
-\cvevent{July 2017 - 2019}{Support}{Technology Advisors}{
-  {Responsible for initial reponse for all incoming support cases.},
-  {Responsible for driving support cases to completion with follow up questions, updates, and checking in with internal resources.},
-  {Built custom sections and pages within the CRMs' UI.},
-  {Delegating support cases to developers when required.},
-  {Worked with CRM vendor support when needed.},
-  {Executed CRM administration tasks for clients.},
-  {Executed on-premise upgrades of SugarCRM.},
-  {Promoted to Developer in 2019.}
+\cvevent{July 2017 - 2019}{Support Engineer}{Technology Advisors}{
+  {Led triage and initial response to incoming support cases.},
+  {Drove support cases to completion with follow up questions, updates, and internal delegation.},
+  {Customized CRM user interfaces.},
+  {Collaborated with vendors to work around or resolve upstream issues.},
+  {Performed database administration tasks for clients.},
+  {Executed on-premise upgrades of SugarCRM.}
+}
+
+\cvevent{}{Open Source Software Engineer}{Volunteer}{
+  {%
+    Contributor to \href{https://github.com/conda/conda-lock}{\textit{conda-lock}}
+    - A tool that enables reproducibile software environments in the Conda ecosystem
+  }
 }
 
 # Education
