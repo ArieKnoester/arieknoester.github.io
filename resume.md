@@ -37,7 +37,7 @@ Python, Git, Linux, PHP, Javascript, relational databases (MySQL, PostgreSQL), a
   {Debugged breakages in custom features caused by dependency upgrades.},
   {Wrote MySQL scripts for custom reports requested by clients.},
   {Maintained CRM developer certifications (SugarCRM, Creatio CRM).},
-  {Implemented data migrations and maintined data integrations via in-house built ETL application (\href{https://www.starfishetl.com/}{Starfish ETL}).},
+  {Implemented data migrations and maintained data integrations via in-house built ETL application (\href{https://www.starfishetl.com/}{Starfish ETL}).},
   {Provided consulting, estimates, application upgrades, stack upgrades, and support for clients' on-premise deployments.},
   {Authored content for company blogs and internal wiki.}
 }
@@ -53,7 +53,7 @@ Python, Git, Linux, PHP, Javascript, relational databases (MySQL, PostgreSQL), a
 \cvevent{}{Open Source Software Engineer}{Volunteer}{
   {%
     Contributor to \href{https://github.com/conda/conda-lock}{\textit{conda-lock}}
-    - A tool that enables reproducibile software environments in the Conda ecosystem
+    - A tool that enables reproducible software environments in the Conda ecosystem
   }
 }
 
