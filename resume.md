@@ -21,8 +21,9 @@ cvfont: "lato"
 # Objective
 
 After 7 years of software development focused on internal business logistics, I am eager to explore other realms.
-Over the last 8 months, I invested in learning Python in support of this objective, and I am now seeking
-opportunities in research software engineering, data science, and Python web development. \newline
+Over the last 8 months, I invested in learning Python in support of this objective. Areas of interest to me include
+Python web development, research software engineering, and data science. However I am also open to other opportunities
+in technology. \newline
 
 
 # Skills
