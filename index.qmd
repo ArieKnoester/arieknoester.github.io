@@ -12,10 +12,52 @@ about:
       href: "mailto:arikstr@gmail.com"
 ---
 
-```{python}
-#| echo: true
-print(1+1)
-```
+## About Me
 
+I am a software engineer with 7 years experience. I previously worked in consulting with
+Customer Relations Management Software. I'm currently looking for opportunities in Python
+web development and data science.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
+
+**Northeastern Illinois University** | Chicago, IL
+
+B.S. in Computer Science | May 2015
+<br /><br /><br />
+**IBM Skills Build** | elearning
+
+<div data-iframe-width="150"
+  data-iframe-height="270"
+  data-share-badge-id="3d066881-4c22-464f-b037-6ce3462a486e"
+  data-share-badge-host="https://www.credly.com">
+</div>
+<div data-iframe-width="150"
+  data-iframe-height="270"
+  data-share-badge-id="be5f30d1-84e1-4256-8082-18cd3db97146"
+  data-share-badge-host="https://www.credly.com">
+</div>
+ <div data-iframe-width="150"
+   data-iframe-height="270"
+   data-share-badge-id="791c78d1-93c5-4fd7-9118-353e494152d5"
+   data-share-badge-host="https://www.credly.com">
+ </div>
+<br />
+ <div data-iframe-width="150"
+   data-iframe-height="270"
+   data-share-badge-id="ece6587c-de27-4ee7-9ca6-50f50623dbdc"
+   data-share-badge-host="https://www.credly.com">
+ </div>
+<div data-iframe-width="150"
+  data-iframe-height="270"
+  data-share-badge-id="76aeac12-8c41-41a8-b718-40c7f4ae5b8b"
+  data-share-badge-host="https://www.credly.com">
+</div>
+<script type="text/javascript"
+  async src="//cdn.credly.com/assets/utilities/embed.js">
+</script>
+
+## Experience
+
+Technology Advisors | Software Engineer | March 2019 - July 2023
+
+Technology Advisors | Support Engineer  | July 2017 - March - 2019
