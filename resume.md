@@ -63,13 +63,19 @@ Python, Git, Linux, PHP, Javascript, relational databases (MySQL, PostgreSQL), a
 \cvevent{May 2013 - 2015}{B.S. Computer Science}{Northeastern Illinois University}{}
 \cvevent{Aug. 2010 - Dec. 2012}{Computer Science Major}{University of Illinois Chicago}{}
 
+# Certificates/Badges
+
+\cvevent{Feb 2025}{eLearning}{IBM Skills Build}{
+  {Applied Data Science with Python - Level 2},
+  {Python for Data Science, Data Analysis Using Python, Data Visualization Using Python},
+  {Artificial Intelligence Fundamentals}
+}
 
 # About me
 
 \cvevent{}{Interests}{Endeavoring to keep life simple in an increasingly complicated world.}{
-  {Walking},
-  {Cycling},
+  {Walking/cycling},
   {PC gaming},
-  {Fantasy and sci-fi series and movies.},
-  {Stand up comedy specials}
+  {Fantasy and sci-fi series and movies}
 }
+
