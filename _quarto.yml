@@ -12,9 +12,10 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
+    page-layout: full
     css: styles.css
-    toc: true
+    toc: false
 
 
 
