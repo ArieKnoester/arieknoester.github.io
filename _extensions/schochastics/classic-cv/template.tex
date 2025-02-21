@@ -27,6 +27,20 @@
 %	DOCUMENT DEFINITION
 %
 %============================================================================%
+
+% !!!! README !!!!!
+% I was receiving the following error for the command, 'quarto preview' (2025-02-19).
+% I could not find a class or package declaration below that was called inside a group.
+% I must assume an update to one of the dependencies is the issue.
+
+% ERROR:
+% compilation failed- error
+% LaTeX Error: Loading a class or package in a group.
+
+% Found this Stack Exchange post:
+% https://tex.stackexchange.com/questions/720126/compiling-of-pdf-a-1b-compatible-document-fails-due-to-latex-error-loading-a-cl
+% Which is why this '\RequirePackage' line was put here. It fixed the issue and I was able to preview the site.
+\RequirePackage[2024-05-01]{latexrelease}
 \documentclass[10pt,A4]{article}	
 
 
