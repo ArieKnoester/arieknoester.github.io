@@ -9,7 +9,7 @@ about:
       href: "https://github.com/ArieKnoester"
     - icon: "envelope"
       text: "E-mail"
-      href: "mailto:arikstr@gmail.com"
+      href: "mailto:arie.knoester42@gmail.com"
 ---
 
 ## About Me
