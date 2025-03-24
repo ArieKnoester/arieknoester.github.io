@@ -20,16 +20,13 @@ cvfont: "lato"
 
 # Objective
 
-After 7 years of software development focused on internal business logistics, I am eager to explore other realms.
-Over the last 8 months, I invested in learning Python in support of this objective. Areas of interest to me include
-Python web development, research software engineering, and data science. However I am also open to other opportunities
-in technology. \newline
-
+After 7 years of software development focused on internal business logistics, I am eager to explore other realms. 
+Over the past year, I invested in learning Python in support of this objective. Areas of interest to me include
+Python web development and data science. However, I am also open to other opportunities in technology. \newline
 
 # Skills
 
-Python, Git, Linux, PHP, Javascript, relational databases (MySQL, PostgreSQL) and .NET scripting. \newline
-
+Python, Git, Linux, and relational databases (MySQL, PostgreSQL). Light exposure to Javascript and PHP. \newline
 
 # Experience
 
