@@ -15,7 +15,7 @@ about:
 ## About Me
 
 I am a software engineer with 7 years experience. I previously worked in consulting with
-Customer Relations Management Software. I'm currently looking for opportunities in Python
+Customer Relations Management Software. I'm currently learning Django and looking for opportunities in Python
 web development and data science.
 
 ## Education
@@ -57,6 +57,8 @@ B.S. in Computer Science | May 2015
 </script>
 
 ## Experience
+
+Data Annotation | AI Trainer- Part-time Contract | Feb 2025 - Present
 
 Technology Advisors | Software Engineer | March 2019 - July 2023
 
