@@ -20,9 +20,9 @@ cvfont: "lato"
 
 # Objective
 
-After 7 years of software development focused on internal business logistics, I am eager to explore other realms. 
-Over the past year, I invested in learning Python in support of this objective. Areas of interest to me include
-Python web development and data science. However, I am also open to other opportunities in technology. \newline
+After 7 years of software development focused on internal business logistics, I am looking to explore other realms. 
+Over the past year, I invested in learning Python in support of this objective. I am primarily interested in web 
+development, however, I am open to any opportunities in technology and am eager to learn. \newline
 
 # Skills
 
